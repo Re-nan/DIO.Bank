@@ -5,4 +5,4 @@
 
 **Versão:** .NET 5
 
-**Editor de código:** Visual Studio Code
+**IDE:** Visual Studio Code
