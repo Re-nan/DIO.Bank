@@ -1,7 +1,7 @@
 # DIO.Bank
 
 - Projeto do tipo Console Application desenvolvido no Bootcamp .Net Fundamentals da Digital Inovation One
-- No qual simula um sistema básico de Conta Bancária, fiz pequenas alterações para deixar o projeto mais intuítivo
+- No qual simula um sistema simples de conta bancária, fiz pequenas alterações para deixar o projeto mais intuítivo
 
 **Versão:** .NET 5
 
